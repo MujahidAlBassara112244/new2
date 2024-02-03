@@ -1,7 +1,11 @@
 # -*- coding: utf-8 -*-
 """
 Created on Sat Jan  6 19:38:57 2024
-
+sdfsdfsdfsdfsadfsdfsdfsdfsdf
+sdfsadgfsdfsdfg
+sdfsdfasdf
+\sdf\sdf\sdf
+sdfs\dfsaDF
 @author: Zainon
 """
 import  pandas as pd 
